@@ -1,3 +1,4 @@
 Fichero 2 de prubas
 Añadimos un texto adicional para ver que hace el 'git add texto.txt -p'
 Ahora veremos las difrencias
+Creamos esta línea en un nuevo branch
